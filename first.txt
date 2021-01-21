@@ -1,3 +1,5 @@
 hello world
 
 first edit on github online
+
+change to view on smart git
